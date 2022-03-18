@@ -1,4 +1,3 @@
--Hi, I’m Sey, -> @Sey01
--I’m interested in Full Stack Development and Management
--I’m currently learning Java and Angular and doing my Master's Degree in Information Systems and Management 
--How to reach me -> Instagram: LinkedIn:
+Some Code shared which was programmed by my self
+
+
